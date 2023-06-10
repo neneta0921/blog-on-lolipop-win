@@ -17,7 +17,7 @@
   },
   "dependencies": {
     "@wordpress/block-library": "^2.16.1",
-    "gatsby": "^2.21.6",
+    "gatsby": "^4.25.7",
     "gatsby-plugin-google-analytics": "^2.2.4",
     "gatsby-plugin-manifest": "^2.3.7",
     "gatsby-plugin-nprogress": "^2.2.3",
